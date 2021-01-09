@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="gradyan1">#066034</color>
+    <color name="gradyan2">#8b008b</color>
+    <color name="yazi">#2196F3</color>
+    <color name="kirmizi">@android:color/holo_red_light</color>
+    <color name="sari">#FFEB40</color>
+    <color name="gradyan3">#170764</color>
+    <color name="gradyan4">#00896B</color>
+    <color name="transparet">#80000000</color>
+
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321982546989",
+    "firebase_url": "https://staj-gym-otomasyon-5ba2d.firebaseio.com",
+    "project_id": "staj-gym-otomasyon-5ba2d",
+    "storage_bucket": "staj-gym-otomasyon-5ba2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321982546989:android:121ca70886086f90fa64a4",
+        "android_client_info": {
+          "package_name": "com.example.gym_otomasyon_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321982546989-kmi28fp1it59efki3g9jti7jqj8tnvfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gym_otomasyon_java1",
+            "certificate_hash": "dfc9646c79aff7e59bef9d58fa6466f0882df942"
+          }
+        },
+        {
+          "client_id": "321982546989-gvbmeeb1e4gc0559tvooakkd95ag2991.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIF91yI8AWvcpindFk7CKFxeWDqq1dalY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321982546989-gvbmeeb1e4gc0559tvooakkd95ag2991.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
